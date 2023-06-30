@@ -1,6 +1,19 @@
 # SAMTOOL
 Simple static web-based mask drawer, supporting semantic drawing with Segment Anything Model (SAM).
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="example/demo.gif" width="240" />
+    </td>
+    <td align="center">
+      <img src="example/demo1.gif" width="240" />
+    </td>
+    <td align="center">
+      <img src="example/demo2.gif" width="240" />
+    </td>
+  </tr>
+</table>
 
 # Tools
 
@@ -13,7 +26,7 @@ From top to bottom
 - Undo
 - Eraser
 - Download for images
-- Download for regions
+- Download for regions (added in this new version)
 
 After Seg-Everything, the downloaded files would include .zip file, which contains all cut-offs.
 
