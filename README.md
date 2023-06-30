@@ -40,7 +40,7 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth
 ```
 - Launch backend
 ```
-python server.py
+python server-revised.py
 ```
 - Go to Browser
 ```
