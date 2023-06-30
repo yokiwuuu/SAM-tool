@@ -25,7 +25,8 @@ From top to bottom
 - SAM Seg-Everything (Need backend)
 - Undo
 - Eraser
-- Download
+- Download for region
+- Download for 
 
 After Seg-Everything, the downloaded files would include .zip file, which contains all cut-offs.
 
